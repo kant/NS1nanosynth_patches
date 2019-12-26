@@ -1,5 +1,5 @@
 # Nanosynth-Experiments
-a place to store my NS! Nanotynth esperiments as well as the NS1 Fritzing Patch and his paper version
+a place to store my NS! Nanosynth experiments as well as the NS1 Fritzing Patch and his paper version
 
 # How to use!
 
@@ -9,11 +9,11 @@ At this point, you can mess around with the manual or take notes yourself about 
 
 If you are using [Fritzing](http://fritzing.org/home/), you can use the [NS1 Fritzing part](https://github.com/vongomben/Nanosynth-Experiments) in order to let everybody saving their patches.
 
-We've released several new sounds. You can read them hear or hear them on [our sound cloud tracklist](https://soundcloud.com/soundmachines_it/sets/ns1nanosynth-basic-patches-and)
+We've released several new sounds. You can read them here or hear them on [our sound cloud tracklist](https://soundcloud.com/soundmachines_it/sets/ns1nanosynth-basic-patches-and)
 
 Add your patches (by making a simple pull request!)
 
-- donwload the zip file by pressing "Download Zip button"
+- download the zip file by pressing "Download Zip button"
 - print NS1 Notebook Sample Page.pdf if you need to take notes
 - add the NS1 Nanosynth by SoundMachines.fzpz file to your [Fritzing](http://fritzing.org/home/) parts by following [this guide](http://fritzing.org/learning/tutorials/creating-custom-parts/)
 
